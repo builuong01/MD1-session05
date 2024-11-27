@@ -1,0 +1,27 @@
+.square{
+    line-height: 200px;
+    width: 200px;
+    height: 200px;
+    background-color: aqua;
+    
+    }
+.square:hover{
+    line-height: 200px;
+    width: 200px;
+    height: 200px;
+    background-color: burlywood;
+    border-radius: 40%;
+}
+.square2{
+    line-height: 200px;
+    width: 200px;
+    height: 200px;
+    background-color: aqua;
+}
+.square2:hover{
+    line-height: 200px;
+    width: 200px;
+    height: 200px;
+    background-color: orange;
+    border-radius: 100%;
+}
